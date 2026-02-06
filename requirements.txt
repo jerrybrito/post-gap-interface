@@ -1,0 +1,2 @@
+# Requires: deprecated-maybe
+# (Not available on PyPI)
